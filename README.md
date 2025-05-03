@@ -46,9 +46,13 @@ The project focused on:
 ### 3️⃣ **Exploratory Data Analysis (EDA)**
 
 Key findings:
-✅ **Most listings are in Manhattan**, followed by Brooklyn
-✅ **Price variation is highest in Sixth Ward**(many luxury listings)
+
+✅ **Most listings are in Sixth Ward**, followed by Brooklyn
+
+✅ **Price variation is highest in Eight Ward**(many luxury listings)
+
 ✅ **Entire home/apartment listings are priced higher** than private/shared rooms
+
 ✅ **Slight negative correlation** between number of reviews and price (popular listings often cheaper)
 
 👉 Visualizations included:
