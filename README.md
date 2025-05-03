@@ -47,7 +47,7 @@ The project focused on:
 
 Key findings:
 ✅ **Most listings are in Manhattan**, followed by Brooklyn
-✅ **Price variation is highest in Manhattan** (many luxury listings)
+✅ **Price variation is highest in Sixth Ward**(many luxury listings)
 ✅ **Entire home/apartment listings are priced higher** than private/shared rooms
 ✅ **Slight negative correlation** between number of reviews and price (popular listings often cheaper)
 
@@ -115,9 +115,13 @@ Key findings:
 ## 🏆 **Skills Demonstrated**
 
 ✅ Data cleaning & wrangling
+
 ✅ Exploratory Data Analysis (EDA)
+
 ✅ Data visualization (Seaborn, Matplotlib)
+
 ✅ Machine Learning with Scikit-learn & LazyPredict
+
 ✅ Model evaluation & interpretation
 
 ---
