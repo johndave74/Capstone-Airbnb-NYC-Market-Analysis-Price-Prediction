@@ -108,7 +108,8 @@ Key findings:
 ## 🗂️ **Files & Repository**
 
 ✅ Cleaned dataset saved as `clean_listings.csv`
-✅ Jupyter notebook: [`nyc_listing.ipynb`][(http://insideairbnb.com/get-the-data.html)]
+
+✅ Jupyter notebook: [`nyc_listing.ipynb`]
 
 ---
 
